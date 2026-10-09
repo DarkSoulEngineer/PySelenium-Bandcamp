@@ -85,4 +85,4 @@ You can modify these parameters at the top of `bandcamp.py`:
 
 ## License
 
-GPL-3.0 — see [LICENSE](LICENSE).
+GPL-3.0. See [LICENSE](LICENSE).
